@@ -1,4 +1,5 @@
-# Fuss ![alt text](https://github.com/strenuousnerd8/Fuss/blob/master/images/icon.png "Fuss")
+# Fuss
+![alt text](https://github.com/strenuousnerd8/Fuss/blob/master/images/icon.png "Fuss")
 #### The less fuzzy todo app by
 ---
 ##### A simple to-do app built with Electron, React, Redux, and LESS.
